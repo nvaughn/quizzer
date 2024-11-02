@@ -17,6 +17,7 @@ Quizzer is a Web App which quizzes users on a selected category of knowledge.
 ## ✨ Features
 
 - 🌟 Modern front-end setup with Vue.js
+- 🦁 Tailwind CSS
 - 🔥 Backend powered by Flask
 - 🌐 Easy integration of front-end and back-end
 - 🚀 Ready for rapid development and deployment
