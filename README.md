@@ -105,5 +105,5 @@ We can't wait to see what you'll create with the Full Flask Vue Starter App! �
 
 ---
 
-Made with ❤️ by [nvaughn](https://github.com/nvaughn
+Made with ❤️ by [nvaughn](https://github.com/nvaughn)
 ````
