@@ -100,8 +100,7 @@ Have questions? Feel free to reach out:
 
 - **Email**: nathan.vaughn.tn@gmail.com
 - **GitHub**: [nvaughn](https://github.com/nvaughn)
-
-We can't wait to see what you'll create with the Full Flask Vue Starter App! 🚀✨
+🚀✨
 
 ---
 
